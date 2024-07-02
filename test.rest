@@ -1,0 +1,18 @@
+GET http://localhost:3000/
+
+POST http://localhost:3000/data
+Content-Type: application/json
+
+{
+    "message": "Hello from VS Code REST Client"
+}
+
+# HEAD Request
+HEAD http://localhost:3000/
+
+# OPTONS Request
+OPTIONS http://localhost:3000/
+
+GET http://localhost:3000/users/1
+Authorization: Bearer your_token_here
+X-Custom-Header: Value

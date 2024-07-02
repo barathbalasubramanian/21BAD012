@@ -1,0 +1,16 @@
+Register
+Success: {
+    companyName: 'Kumaraguru College of Technology',
+    clientID: '786effe5-41c8-4491-94c8-1b288d662ea5',
+    clientSecret: 'BjXonDcrswbrmwsV',
+    ownerName: 'Barathkumar B',
+    ownerEmail: 'barathkumar.21ad@kct.ac.in',
+    rollNo: '21BAD012'
+  }
+
+Auth
+Success: {
+  token_type: 'Bearer',
+  access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5ODk1NTMxLCJpYXQiOjE3MTk4OTUyMzEsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijc4NmVmZmU1LTQxYzgtNDQ5MS05NGM4LTFiMjg4ZDY2MmVhNSIsInN1YiI6ImJhcmF0aGt1bWFyLjIxYWRAa2N0LmFjLmluIn0sImNvbXBhbnlOYW1lIjoiS3VtYXJhZ3VydSBDb2xsZWdlIG9mIFRlY2hub2xvZ3kiLCJjbGllbnRJRCI6Ijc4NmVmZmU1LTQxYzgtNDQ5MS05NGM4LTFiMjg4ZDY2MmVhNSIsImNsaWVudFNlY3JldCI6IkJqWG9uRGNyc3dicm13c1YiLCJvd25lck5hbWUiOiJCYXJhdGhrdW1hciBCIiwib3duZXJFbWFpbCI6ImJhcmF0aGt1bWFyLjIxYWRAa2N0LmFjLmluIiwicm9sbE5vIjoiMjFCQUQwMTIifQ.5GfLx_oduMxp2jmXHaYiUbArZKmYfF9p06HYVfXOlTQ',
+  expires_in: 1719895531
+}
