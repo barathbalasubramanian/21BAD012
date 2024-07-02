@@ -12,7 +12,6 @@ const ItemCard = ({ id, productName, company, category, price, rating, discount,
     const navigate = useNavigate();
 
     const handleClick = () => {
-        // Prepare data to send to the product detail route
         const productData = {
             id,
             productName,
@@ -24,7 +23,6 @@ const ItemCard = ({ id, productName, company, category, price, rating, discount,
             availability
         };
 
-        // Navigate to the product detail page with state
         navigate(`/product/${id}`, { state: { productData } });
     };
 
